@@ -5,3 +5,12 @@
 ##### Pip - available [here](https://pypi.python.org/pypi/pip)
 
 
+<!-- ### Preparing
+Install Flask and pymessenger library. 
+
+`pip install flask`
+
+`pip install pymessenger`
+
+### Step 1
+Create simple Flask App,  -->
